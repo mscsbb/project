@@ -5,6 +5,7 @@ import java.awt.event.*;
 public class ButtonPanel extends Frame 
 {
 
+
 /*****************
  * Konstruktor   *
  *****************/
